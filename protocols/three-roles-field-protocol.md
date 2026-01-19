@@ -13,21 +13,21 @@ As much detail as possible, without interpretation.
 Three: the Guardian.
 The guardian watches to make sure things are safe.
 They invite other people to stand witness.
-They invite others to journal.
+They invite others to document.
 They invite others to act as guardians.
 The guardian also keeps an eye on the victim or victims.
 Where possible, they offer calm, grounding messages, such as:
 Keep breathing.
 Help is on the way.
 If possible, the guardian gathers:
-the names of the victim(s), and
+the name or names of the victim(s), and
 relevant contact information (family, friend, emergency contact).
 What this does is create a kind of accordion.
 It can expand or contract as needed.
 If it’s just one person, that person needs to consciously hold all three roles:
 guardianship,
-witnessing,
-and documentation.
+witnessing, and
+documentation.
 They need to take care of themselves and make sure they are safe—and that others around them are safe.
 Especially if others are in a state of shock or rage.
 But there will often be others who can join—
