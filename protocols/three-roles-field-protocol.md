@@ -2,6 +2,10 @@ Three Roles for Civic Witness
 
 Ideally, you need three people.
 
+Audio Integrity
+When recording is underway, care should be taken to preserve the clarity of spoken audio.
+Loud signals (such as whistles or shouted alerts), if used, should be deployed outside the immediate recording area whenever possible, so that speech, names, commands, and contextual sounds remain intelligible for later review or potential evidentiary use.
+
 One: the Witness.
 The witness gets as close as possible—safely—to record exactly what is going on. Exactly as it is. No commentary.
 
@@ -15,8 +19,7 @@ The guardian also keeps an eye on the victim or victims. Where possible, they of
 Keep breathing.
 Help is on the way.
 If possible, the guardian gathers:
-the name or names of the victim(s), and
-relevant contact information (family, friend, emergency contact).
+the name or names of the victim(s), and relevant contact information (family, friend, emergency contact).
 
 What this does is create a kind of accordion.
 It can expand or contract as needed.
@@ -25,9 +28,5 @@ guardianship, witnessing, and documentation.
 They need to take care of themselves and make sure they are safe—and that others around them are safe.
 Especially if others are in a state of shock or rage.
 But there will often be others who can join— people who understand what to do, especially if this idea spreads.
-
-Audio Integrity
-When recording is underway, care should be taken to preserve the clarity of spoken audio.
-Loud signals (such as whistles or shouted alerts), if used, should be deployed outside the immediate recording area whenever possible, so that speech, names, commands, and contextual sounds remain intelligible for later review or potential evidentiary use.
 
 It’s simple: One guardian. One witness. One journalist or archivist.
