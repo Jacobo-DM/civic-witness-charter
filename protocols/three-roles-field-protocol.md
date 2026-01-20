@@ -26,4 +26,8 @@ They need to take care of themselves and make sure they are safe—and that othe
 Especially if others are in a state of shock or rage.
 But there will often be others who can join— people who understand what to do, especially if this idea spreads.
 
+Audio Integrity
+When recording is underway, care should be taken to preserve the clarity of spoken audio.
+Loud signals (such as whistles or shouted alerts), if used, should be deployed outside the immediate recording area whenever possible, so that speech, names, commands, and contextual sounds remain intelligible for later review or potential evidentiary use.
+
 It’s simple: One guardian. One witness. One journalist or archivist.
