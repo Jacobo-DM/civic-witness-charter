@@ -1,3 +1,6 @@
+> This is the canonical Markdown source for the “Three Roles” protocol.  
+> A field-ready HTML version is available for use and sharing.
+
 Three Roles for Civic Witness
 
 Ideally, you need three people.
