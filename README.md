@@ -1,3 +1,21 @@
+# Civic Witness Charter
+
+This document exists to preserve clarity under pressure.
+
+The Civic Witness Charter is not an argument, accusation, or campaign.
+It does not seek attention, alignment, or escalation.
+
+It is a boundary document — created so that testimony, observation, and
+good-faith presence can be recorded without distortion, coercion, or
+retaliatory framing.
+
+The Charter is intended for moments where noise overwhelms evidence,
+and where human beings require a shared reference point for restraint,
+accountability, and dignity.
+
+This repository is the canonical home of the Charter.
+All mirrors, excerpts, or references must defer to the version held here.
+
 Three Roles for Civic Witness
 
 Ideally, you need three people.
