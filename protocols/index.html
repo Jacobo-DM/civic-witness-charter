@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Civic Witness Charter</title>
+  <meta name="description" content="A simple, human-centered field protocol for ethical witnessing, documentation, and guardianship in moments of civic harm." />
+  <style>
+    :root {
+      --max: 920px;
+      --pad: 20px;
+    }
+
+    body {
+      margin: 0;
+      font: 16px/1.6 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      color: #111;
+      background: #fff;
+    }
+
+    header, main, footer {
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: var(--pad);
+    }
+
+    header {
+      padding-top: 40px;
+    }
+
+    h1 {
+      font-size: 2.1rem;
+      margin: 0 0 10px;
+    }
+
+    p {
+      margin: 0 0 14px;
+    }
+
+    .sub {
+      max-width: 70ch;
+      color: #333;
+    }
+
+    .btnrow {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 18px;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 10px 14px;
+      border-radius: 999px;
+      border: 1px solid #d6d6d6;
+      background: #fafafa;
+      color: #111;
+      text-decoration: none;
+      font-size: 0.95rem;
+    }
+
+    .btn:hover {
+      background: #f1f1f1;
+      text-decoration: none;
+    }
+
+    .card {
+      border: 1px solid #e6e6e6;
+      border-radius: 14px;
+      padding: 16px;
+      margin: 16px 0;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 16px;
+    }
+
+    @media (min-width: 860px) {
+      .grid {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    ul {
+      margin: 8px 0 0 18px;
+    }
+
+    a {
+      color: #0b57d0;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      border-top: 1px solid #eee;
+      color: #444;
+      font-size: 0.95rem;
+      padding-bottom: 40px;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Civic Witness Charter</h1>
+    <p class="sub">
+      A simple, human-centered field protocol for witnessing harm without escalating it —
+      designed for clarity, safety, and continuity.
+    </p>
+
+    <div class="btnrow">
+      <a class="btn" href="./charter.html">Read the Charter</a>
+      <a class="btn" href="./protocols/">Protocols</a>
+      <a class="btn" href="https://github.com/Jacobo-DM/civic-witness-charter">View on GitHub</a>
+      <a class="btn" href="https://github.com/Jacobo-DM/civic-witness-charter/releases">Releases</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="card">
+      <strong>Three roles</strong>
+      <p>
+        These roles can be held by individuals or groups in moments of civic distress,
+        conflict, or harm:
+      </p>
+      <ul>
+        <li><strong>The Witness</strong> — observes, stabilizes presence, avoids escalation</li>
+        <li><strong>The Archivist / Journalist</strong> — records with evidentiary integrity</li>
+        <li><strong>The Guardian</strong> — watches safety, distance, exits, de-escalation conditions</li>
+      </ul>
+    </section>
+
+    <section class="grid">
+      <div class="card">
+        <strong>Start here</strong>
+        <p>
+          If you’re new, read the Charter first. It’s meant to be portable and usable
+          without training.
+        </p>
+        <p><a href="./charter.html">Open the Charter →</a></p>
+      </div>
+
+      <div class="card">
+        <strong>Field protocols</strong>
+        <p>
+          Protocol pages are kept in <code>/protocols</code>. Use them as checklists
+          before, during, and after an incident.
+        </p>
+        <p><a href="./protocols/">Browse protocols →</a></p>
+      </div>
+    </section>
+
+    <section class="card">
+      <strong>Design intent</strong>
+      <p>
+        This project is intentionally lightweight, non-ideological, and adaptable.
+        The goal is accuracy, safety, and continuity — not commentary, performance,
+        or punishment.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>
+      Licensed under Creative Commons BY-NC-SA 4.0.
+    </p>
+  </footer>
+</body>
+</html>
